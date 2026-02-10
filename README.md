@@ -11,13 +11,17 @@ Last updated time: January 19, 2026 5:32 PM
 
 # Table of Contents
 
-1. [Migration Fundamentals](Alembic%20Database%20Migration%20Guide%202edb92424a07807785c2d89c21cf50e3.md)
-2. [Table Renaming Strategy](Alembic%20Database%20Migration%20Guide%202edb92424a07807785c2d89c21cf50e3.md)
-3. [Manual Migration Creation](Alembic%20Database%20Migration%20Guide%202edb92424a07807785c2d89c21cf50e3.md)
-4. [Splitting Tables (Table Normalization)](Alembic%20Database%20Migration%20Guide%202edb92424a07807785c2d89c21cf50e3.md)
-5. [Adding New Tables with Data](Alembic%20Database%20Migration%20Guide%202edb92424a07807785c2d89c21cf50e3.md)
-6. [Migration File Naming Constraints](Alembic%20Database%20Migration%20Guide%202edb92424a07807785c2d89c21cf50e3.md)
-7. [Common Patterns & Best Practices](Alembic%20Database%20Migration%20Guide%202edb92424a07807785c2d89c21cf50e3.md)
+1. [Migration Fundamentals](#migration-fundamentals)
+2. [Table Renaming Strategy](#table-renaming-strategy)
+3. [Manual Migration Creation](#manual-migration-creation)
+4. [Splitting Tables (Table Normalization)](#splitting-tables-table-normalization)
+5. [Adding New Tables with Data](#adding-new-tables-with-data)
+6. [Migration File Naming Constraints](#migration-file-naming-constraints)
+7. [Common Patterns & Best Practices](#common-patterns--best-practices)
+8. [Troubleshooting Guide](#troubleshooting-guide)
+9. [Summary Checklist](#summary-checklist)
+10. [Quick Reference Commands](#quick-reference-commands)
+
 
 ---
 
